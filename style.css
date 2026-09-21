@@ -54,14 +54,14 @@ h2{font-size:18px;letter-spacing:-.5px;margin-bottom:5px}
 .pulse-ring span{font-size:11px}
 .demo-label{position:absolute;z-index:1;bottom:17px;left:26px;font-size:9px;font-weight:700;letter-spacing:.9px;color:rgba(255,255,255,.9)}
 .content-grid{display:grid;grid-template-columns:1.18fr .82fr;gap:20px;margin-top:20px}
-.chat-card{min-height:395px;display:flex;flex-direction:column;padding:23px 24px 15px}
+.chat-card{height: 480px; display:flex;flex-direction:column;padding:23px 24px 15px}
 .assistant-id{display:flex;gap:11px;align-items:center}
 .ai-orb{display:grid;place-items:center;width:38px;height:38px;border-radius:13px;color:#fff;background:var(--teal);font-size:20px}
 .assistant-id p{margin:0;font-size:12px;color:var(--muted)}
 .assistant-id i{display:inline-block;width:7px;height:7px;border-radius:50%;background:var(--coral)}
 .more{border:0;background:none;color:var(--muted);font-weight:700;font-size:15px;letter-spacing:1px;cursor:pointer}
-.chat-messages{display:flex;flex:1;flex-direction:column;gap:14px;padding-top:28px;overflow-y:auto}
-.message{max-width:75%;padding:12px 15px;border-radius:4px 14px 14px 14px;font-size:14px;line-height:1.5}
+.chat-messages{display:flex;flex:1;flex-direction:column;gap:14px;padding-top:28px;overflow-y:auto; scroll-behavior: smooth;}
+.message{max-width:85%;padding:12px 15px;border-radius:4px 14px 14px 14px;font-size:14px;line-height:1.5}
 .bot{background:#e5f6fb}
 .user{align-self:flex-end;background:var(--lilac);border-radius:14px 4px 14px 14px}
 .crisis{max-width:88%;background:#ffeaee;border-left:4px solid #d32f2f;font-size:13px;line-height:1.5}
@@ -140,7 +140,8 @@ h2{font-size:18px;letter-spacing:-.5px;margin-bottom:5px}
 
 /* Auth / Role Switcher */
 #authScreen { z-index: 100; backdrop-filter: blur(4px); }
-.auth-buttons { display: flex; flex-direction: column; gap: 12px; margin-top: 24px; }
+.auth-buttons { display: flex; flex-direction: column; gap: 10px; margin-top: 24px; }
+.auth-buttons button { text-align: left; padding: 12px 18px; font-size: 14px; }
 
 /* Breathing Animation */
 .breathing-container { display: flex; flex-direction: column; align-items: center; justify-content: center; height: 160px; }
@@ -158,6 +159,16 @@ h2{font-size:18px;letter-spacing:-.5px;margin-bottom:5px}
 .privacy-toggles { margin: 20px 0; display: flex; flex-direction: column; gap: 12px; font-size: 13px; color: var(--ink); }
 .privacy-toggles label { display: flex; align-items: center; gap: 10px; cursor: pointer; }
 .privacy-toggles input { width: 16px; height: 16px; accent-color: var(--teal); }
+
+/* STRICT BUG FIX: Hide components thoroughly when modal is inactive */
+#breathingContainer[hidden],
+#privacyToggles[hidden],
+#timerDisplay[hidden],
+.breathing-container[hidden],
+.privacy-toggles[hidden],
+.timer-display[hidden] {
+  display: none !important;
+}
 
 /* Mobile Enhancements */
 @media(max-width:760px){
@@ -180,13 +191,4 @@ h2{font-size:18px;letter-spacing:-.5px;margin-bottom:5px}
   .pulse-ring{right:28px}
   .dashboard-head .primary-button{white-space:nowrap;font-size:11px}
   .case-detail{min-height:0}
-}
-
-/* Mobile Triage Ergonomics (<400px) */
-@media(max-width: 400px){
-  .dashboard-grid { display: flex; flex-direction: column; }
-  .case-list { display: flex; flex-direction: column; border-bottom: none; border-radius: 16px 16px 0 0; }
-  .case-detail { border-radius: 0 0 16px 16px; border-top: none; }
-  .risk-panel { flex-direction: column; align-items: flex-start; gap: 15px; }
-  .risk-panel svg { width: 100%; overflow-x: auto; }
 }
