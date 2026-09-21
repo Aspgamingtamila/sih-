@@ -109,7 +109,7 @@
     document.querySelectorAll('.nav-link').forEach((item) => item.classList.toggle('active', item.dataset.view === role));
     
     if (isCounselor) {
-        byId('profileBtn').textContent = 'DM';
+        byId('profileBtn').textContent = 'SN';
         byId('profileBtn').style.background = 'var(--gold)';
         byId('profileBtn').style.color = 'white';
         renderCaseList();
