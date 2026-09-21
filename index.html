@@ -19,14 +19,17 @@
     </style>
   </head>
   <body>
-    <!-- User Profile / Auth Switcher -->
+    <!-- User Profile / Auth Switcher with Multi-Patients -->
     <div id="authScreen" class="modal-backdrop">
       <div class="modal" role="dialog" aria-modal="true">
         <h2>Switch Profile</h2>
-        <p>Select your persona to enter the prototype experience.</p>
+        <p>Select a persona to test their specific chat history and dashboard view.</p>
         <div class="auth-buttons">
-          <button id="loginPatient" class="primary-button">Log in as Patient (Akshavi)</button>
-          <button id="loginCounselor" class="soft-button">Log in as Counselor (Dr. Meera)</button>
+          <button class="primary-button" data-login="akshavi">🧑🏽‍🦱 Log in as Akshavi (Patient)</button>
+          <button class="primary-button" data-login="yaswant">👨🏽‍🦱 Log in as Yaswant (Patient)</button>
+          <button class="primary-button" data-login="bala">👨🏽‍🦳 Log in as Bala (Patient)</button>
+          <button class="primary-button" data-login="armaan">🧑🏽‍🦲 Log in as Armaan (Patient)</button>
+          <button class="soft-button" data-login="counselor">🩺 Log in as Counselor (Dr. Meera)</button>
         </div>
       </div>
     </div>
@@ -43,7 +46,7 @@
 
       <main id="careView">
         <section class="welcome-row">
-          <div><p class="eyebrow">TUESDAY, 25 AUGUST</p><h1>A quiet space for <em>you.</em></h1><p class="subtle">Welcome back, Akshavi. We can take this one moment at a time.</p></div>
+          <div><p class="eyebrow">TUESDAY, 25 AUGUST</p><h1>A quiet space for <em id="welcomeName">Akshavi.</em></h1><p class="subtle" id="welcomeSub">Welcome back. We can take this one moment at a time.</p></div>
           <button class="soft-button" id="consentBtn"><span>⌁</span> Your choices & privacy</button>
         </section>
 
@@ -55,10 +58,10 @@
         <section class="content-grid">
           <article class="chat-card card"><div class="card-heading"><div class="assistant-id"><span class="ai-orb">✦</span><div><h2>Talk to Rio</h2><p><i></i> Here with you</p></div></div><button class="more" id="chatInfoBtn" aria-label="Chat information">•••</button></div>
           <div class="chat-messages" id="messages" aria-live="assertive">
-            <div class="message bot">Hello Akshavi. I’m Rio, your MindCare guide. How has today felt for you?</div>
-            <div class="suggestions" id="chatSuggestions"><button>I'm feeling anxious</button><button>I need a small pause</button><button>Talk about my case</button></div>
+            <!-- Messages populated by JS -->
           </div>
-          <form class="chat-input" id="chatForm">
+          <div class="suggestions" id="chatSuggestions" style="padding: 0 24px 15px;"><button>I'm feeling anxious</button><button>I need a small pause</button><button>Talk about my case</button></div>
+          <form class="chat-input" id="chatForm" style="margin: 0 24px;">
             <input id="chatText" autocomplete="off" placeholder="Share what’s on your mind…" aria-label="Message Rio" />
             <button type="button" class="mic-btn" id="micBtn" aria-label="Voice input">🎤</button>
             <button type="submit" aria-label="Send message">↑</button>
@@ -67,7 +70,7 @@
           <aside class="right-stack">
             <article class="support-card"><div class="support-title"><span class="lifebuoy">✚</span><div><p class="eyebrow">NEED SUPPORT NOW?</p><h2>You don’t have to wait.</h2></div></div><p>Reach a trained person or choose a grounding exercise.</p>
               <div class="support-buttons">
-                <!-- Swapped fake string for real verified crisis intervention numbers -->
+                <!-- Verified crisis intervention numbers -->
                 <a href="tel:14416" class="primary-button" id="helplineBtn">Call Tele-MANAS <strong>14416</strong></a>
                 <a href="tel:18005990019" class="soft-button" style="padding: 10px 12px; background: transparent; border: 1px solid var(--gold); color: #315d7b;">KIRAN 1800-599-0019</a>
               </div>
@@ -76,7 +79,7 @@
             <article class="resource-card card"><div class="card-heading"><div><p class="eyebrow">GENTLE TOOLS</p><h2>For this moment</h2></div><button class="more" id="resourceInfoBtn" aria-label="More resources">•••</button></div><div class="resources"><button class="resource" id="boxBreathingBtn"><b class="resource-icon lavender">≋</b><span><strong>Box breathing</strong><small>2 minutes</small></span><em>→</em></button><button class="resource" id="groundingBtn"><b class="resource-icon yellow">✺</b><span><strong>Grounding guide</strong><small>5 senses exercise</small></span><em>→</em></button></div></article>
           </aside>
         </section>
-        <section class="journey card"><div><p class="eyebrow">YOUR JOURNEY</p><h2>Small steps count.</h2></div><div class="journey-stat"><strong>3</strong><span>check-ins<br />this week</span></div><div class="journey-stat"><strong>12m</strong><span>time for<br />yourself</span></div><button id="journeyBtn" class="text-button">View gentle progress →</button></section>
+        <section class="journey card"><div><p class="eyebrow">YOUR JOURNEY</p><h2>Small steps count.</h2></div><div class="journey-stat"><strong id="statCheckins">3</strong><span id="statText1">check-ins<br />this week</span></div><div class="journey-stat"><strong id="statTime">12m</strong><span id="statText2">time for<br />yourself</span></div><button id="journeyBtn" class="text-button">View gentle progress →</button></section>
       </main>
 
       <main id="counselorView" hidden>
@@ -115,7 +118,8 @@
           <label><input type="checkbox" checked disabled> Auto-flag critical distress phrases (Mandatory)</label>
         </div>
         
-        <button class="primary-button" id="modalAction" data-close-modal type="button" style="margin-top: 15px;">I understand</button>
+        <!-- Updated to reliably close modal via JS -->
+        <button class="primary-button" id="modalAction" style="margin-top: 15px;">I understand</button>
       </div>
     </div>
     
