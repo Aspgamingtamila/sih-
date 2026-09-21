@@ -17,7 +17,7 @@
     'বাংলা': { space: 'আমার স্থান', counselor: 'কাউন্সেলর ভিউ', checkin: 'আজকের চেক-ইন', howFeel: 'আপনি কেমন অনুভব করছেন?', wellness: 'সুস্থতার অবস্থা', selected: 'নির্বাচিত', see: 'এর অর্থ দেখুন', priority: 'অগ্রাধিকার তালিকা', people: 'পর্যালোচনার জন্য মানুষ', workspace: 'কাউন্সেলর কর্মক্ষেত্র · ডেমো ডেটা', active: 'সক্রিয় সহায়তা পরিকল্পনা', review: 'আজ পর্যালোচনা প্রস্তাবিত', completion: 'চেক-ইন সম্পন্নতা', difficult: 'কঠিন', low: 'কম', okay: 'ঠিক আছে', good: 'ভালো', bright: 'দারুণ', aiAck: 'শেয়ার করার জন্য ধন্যবাদ। আপনার চেক-ইন সহায়তা সারাংশে যোগ করা হয়েছে।' },
     'मराठी': { space: 'माझी जागा', counselor: 'समुपदेशक दृश्य', checkin: 'आजची नोंद', howFeel: 'तुम्हाला कसे वाटत आहे?', wellness: 'कल्याण स्थिती', selected: 'निवडलेले', see: 'याचा अर्थ पहा', priority: 'प्राधान्य यादी', people: 'पुनरावलोकनासाठी लोक', workspace: 'समुपदेशक कार्यक्षेत्र · डेमो डेटा', active: 'सक्रिय सहाय्य योजना', review: 'आज पुनरावलोकन सुचवले', completion: 'चेक-इन पूर्णता', difficult: 'कठीण', low: 'कमी', okay: 'ठीक', good: 'चांगले', bright: 'उत्कृष्ट', aiAck: 'सामायिक केल्याबद्दल धन्यवाद. तुमची नोंद सहाय्य सारांशात जोडली आहे.' },
     'ગુજરાતી': { space: 'મારી જગ્યા', counselor: 'કાઉન્સેલર દૃશ્ય', checkin: 'આજનું ચેક-ઇન', howFeel: 'તમે કેવું અનુભવો છો?', wellness: 'સ્વાસ્થ્ય સ્થિતિ', selected: 'પસંદ કરેલ', see: 'આનો અર્થ જુઓ', priority: 'પ્રાથમિકતા યાદી', people: 'સમીક્ષા માટે લોકો', workspace: 'કાઉન્સેલર કાર્યસ્થળ · ડેમો ડેટા', active: 'સક્રિય સહાય યોજનાઓ', review: 'આજે સમીક્ષા સૂચવાઈ', completion: 'ચેક-ઇન પૂર્ણતા', difficult: 'મુશ્કેલ', low: 'ઓછું', okay: 'ઠીક', good: 'સારું', bright: 'ખૂબ સારું', aiAck: 'શેર કરવા બદલ આભાર. તમારું ચેક-ઇન સહાય સારાંશમાં ઉમેરાયું છે.' },
-    'ਪੰਜਾਬੀ': { space: 'ਮੇਰੀ ਥਾਂ', counselor: 'ਕੌਂਸਲਰ ਦ੍ਰਿਸ਼', checkin: 'ਅੱਜ ਦਾ ਚੈਕ-ਇਨ', howFeel: 'ਤੁਸੀਂ ਕਿਵੇਂ ਮਹਿਸੂਸ ਕਰ ਰਹੇ ਹੋ?', wellness: 'ਤੰਦਰੁਸਤੀ ਸਥਿਤੀ', selected: 'ਚੁਣਿਆ ਗਿਆ', see: 'ਇਸਦਾ ਮਤਲਬ ਵੇਖੋ', priority: 'ਤਰਜੀਹ ਸੂਚੀ', people: 'ਸਮੀਖਿਆ ਲਈ ਲੋਕ', workspace: 'ਕੌਂਸਲਰ ਕਾਰਜਸਥਾਨ · ਡੈਮੋ ਡੇਟਾ', active: 'ਸਰਗਰਮ ਸਹਾਇਤਾ ਯੋਜਨਾਵਾਂ', review: 'ਅੱਜ ਸਮੀਖਿਆ ਸੁਝਾਈ ਗਈ', completion: 'ਚੈਕ-ਇਨ ਪੂਰਨਤਾ', difficult: 'ਮੁਸ਼ਕਲ', low: 'ਘੱਟ', okay: 'ਠਇਕ', good: 'ਚੰਗਾ', bright: 'ਬਹੁਤ ਵਧੀਆ', aiAck: 'ਸਾਂਝਾ ਕਰਨ ਲਈ ਧੰਨਵਾਦ। ਤੁਹਾਡਾ ਚੈਕ-ਇਨ ਸਹਾਇਤਾ ਸਾਰਾਂਸ਼ ਵਿੱਚ ਸ਼ਾਮਲ ਕੀਤਾ ਗਿਆ ਹੈ।' }
+    'ਪੰਜਾਬੀ': { space: 'ਮੇਰੀ ਥਾਂ', counselor: 'ਕੌਂਸਲਰ ਦ੍ਰਿਸ਼', checkin: 'ਅੱਜ ਦਾ ਚੈਕ-ਇਨ', howFeel: 'ਤੁਸੀਂ ਕਿਵੇਂ ਮਹਿਸੂਸ ਕਰ ਰਹੇ ਹੋ?', wellness: 'ਤੰਦਰੁਸਤੀ ਸਥਿਤੀ', selected: 'ਚੁਣਿਆ ਗਿਆ', see: 'ਇਸਦਾ ਮਤਲਬ ਵੇਖੋ', priority: 'ਤਰਜੀਹ ਸੂਚੀ', people: 'ਸਮੀਖਿਆ ਲਈ ਲੋਕ', workspace: 'ਕੌਂਸਲਰ ਕਾਰਜਸਥਾਨ · ਡੈਮੋ ਡੇਟਾ', active: 'ਸਰਗਰਮ ਸਹਾਇਤਾ ਯੋਜਨਾਵਾਂ', review: 'ਅੱਜ ਸਮੀਖਿਆ ਸੁਝਾਈ ਗਈ', completion: 'ਚੈਕ-ਇਨ ਪੂਰਨਤਾ', difficult: 'ਮੁਸ਼ਕਲ', low: 'ਘੱਟ', okay: 'ਠੀਕ', good: 'ਚੰਗਾ', bright: 'ਬਹੁਤ ਵਧੀਆ', aiAck: 'ਸਾਂਝਾ ਕਰਨ ਲਈ ਧੰਨਵਾਦ। ਤੁਹਾਡਾ ਚੈਕ-ਇਨ ਸਹਾਇਤਾ ਸਾਰਾਂਸ਼ ਵਿੱਚ ਸ਼ਾਮਲ ਕੀਤਾ ਗਿਆ ਹੈ।' }
   };
 
   let people = [
@@ -28,24 +28,16 @@
   ];
 
   const pageCopy = {
-    English: {
-      date: 'TUESDAY, 25 AUGUST', welcomeTitle: 'A quiet space for <em>you.</em>', welcome: 'Welcome back, Akshavi. We can take this one moment at a time.', choices: '⌁ Your choices & privacy',
-      pulseDefaultTitle: 'Steady today', pulseDefaultCopy: 'Your check-ins suggest a stable week.', demoIndicator: 'DEMO INDICATOR · NOT A DIAGNOSIS',
-      talkRio: 'Talk to Rio', hereWithYou: 'Here with you', chatHello: 'Hello Akshavi. I’m Rio, your MindCare guide. How has today felt for you?', anxious: "I'm feeling anxious", pause: 'I need a small pause', case: 'Talk about my case', chatPlaceholder: 'Share what’s on your mind…', chatFootnote: 'Demo AI guidance · For emergencies, use the support options below.',
-      needSupport: 'NEED SUPPORT NOW?', noWait: 'You don’t have to wait.', reachSupport: 'Reach a trained person or choose a grounding exercise.', call: 'Call SAKTHIVEL ', reset: 'Try a 60-sec reset ', helpline: 'Helpline action is simulated in this demo.',
-      gentleTools: 'GENTLE TOOLS', thisMoment: 'For this moment', boxBreathing: 'Box breathing', twoMinutes: '2 minutes', groundingGuide: 'Grounding guide', senses: '5 senses exercise',
-      journey: 'YOUR JOURNEY', smallSteps: 'Small steps count.', checkins: 'check-ins<br />this week', timeForYou: 'time for<br />yourself', progress: 'View gentle progress →',
-      morning: 'Good morning, <em>Dr. Meera.</em>', counselorIntro: 'A focused view of people who may benefit from a check-in.', refresh: '↻ Refresh overview', filter: 'Filter ⌄', dds: 'DISTRESS & SUPPORT (DDS)', preview: 'CONVERSATION PREVIEW'
-    },
-    'தமிழ்': {
-      date: 'செவ்வாய், 25 ஆகஸ்ட்', welcomeTitle: 'உங்களுக்கான அமைதியான <em>இடம்.</em>', welcome: 'மீண்டும் வரவேற்கிறோம், அக்ஷவி. ஒரு நேரத்தில் ஒரு தருணத்தை எடுத்துக்கொள்ளலாம்.', choices: '⌁ உங்கள் தேர்வுகள் மற்றும் தனியுரிமை',
-      pulseDefaultTitle: 'இன்று நிலையாக உள்ளது', pulseDefaultCopy: 'உங்கள் பதிவுகள் ஒரு நிலையான வாரத்தைக் காட்டுகின்றன.', demoIndicator: 'டெமோ குறியீடு · நோயறிதல் அல்ல',
-      talkRio: 'ரியோவுடன் பேசுங்கள்', hereWithYou: 'உங்களுடன் இருக்கிறேன்', chatHello: 'வணக்கம் அக்ஷவி. நான் உங்கள் MindCare வழிகாட்டி ரியோ. இன்று உங்களுக்கு எப்படி இருந்தது?', anxious: 'நான் பதட்டமாக உணர்கிறேன்', pause: 'எனக்கு சிறிய இடைவெளி வேண்டும்', case: 'என் வழக்கைப் பற்றி பேசுங்கள்', chatPlaceholder: 'உங்கள் மனதில் இருப்பதைப் பகிருங்கள்…', chatFootnote: 'டெமோ AI வழிகாட்டல் · அவசரநிலைகளுக்கு கீழே உள்ள உதவி விருப்பங்களைப் பயன்படுத்தவும்.',
-      needSupport: 'இப்போது உதவி தேவையா?', noWait: 'நீங்கள் காத்திருக்க வேண்டியதில்லை.', reachSupport: 'பயிற்சி பெற்ற ஒருவரை அணுகவும் அல்லது மனநிலைப் பயிற்சியைத் தேர்வுசெய்யவும்.', call: 'சக்திவேலை அழைக்கவும் ', reset: '60-வினாடி ஓய்வை முயற்சிக்கவும் ', helpline: 'உதவி அழைப்பு இந்த டெமோவில் உருவகப்படுத்தப்பட்டுள்ளது.',
-      gentleTools: 'மென்மையான கருவிகள்', thisMoment: 'இந்தத் தருணத்திற்காக', boxBreathing: 'பெட்டி சுவாசம்', twoMinutes: '2 நிமிடங்கள்', groundingGuide: 'நிலைப்படுத்தும் வழிகாட்டி', senses: '5 புலன்கள் பயிற்சி',
-      journey: 'உங்கள் பயணம்', smallSteps: 'சிறிய படிகளும் முக்கியம்.', checkins: 'பதிவுகள்<br />இந்த வாரம்', timeForYou: 'உங்களுக்கான<br />நேரம்', progress: 'மென்மையான முன்னேற்றத்தைப் பாருங்கள் →',
-      morning: 'காலை வணக்கம், <em>டாக்டர் மீரா.</em>', counselorIntro: 'பதிவு தேவைப்படக்கூடியவர்களின் கவனமான காட்சி.', refresh: '↻ கண்ணோட்டத்தைப் புதுப்பிக்கவும்', filter: 'வடிகட்டு ⌄', dds: 'துயரம் மற்றும் ஆதரவு (DDS)', preview: 'உரையாடல் முன்னோட்டம்'
-    }
+    English: { date: 'TUESDAY, 25 AUGUST', welcomeTitle: 'A quiet space for <em>you.</em>', welcome: 'Welcome back, Akshavi. We can take this one moment at a time.', choices: '⌁ Your choices & privacy', pulseDefaultTitle: 'Steady today', pulseDefaultCopy: 'Your check-ins suggest a stable week.', demoIndicator: 'DEMO INDICATOR · NOT A DIAGNOSIS', talkRio: 'Talk to Rio', hereWithYou: 'Here with you', chatHello: 'Hello Akshavi. I’m Rio, your MindCare guide. How has today felt for you?', anxious: "I'm feeling anxious", pause: 'I need a small pause', case: 'Talk about my case', chatPlaceholder: 'Share what’s on your mind…', chatFootnote: 'Demo AI guidance · For emergencies, use the support options below.', needSupport: 'NEED SUPPORT NOW?', noWait: 'You don’t have to wait.', reachSupport: 'Reach a trained person or choose a grounding exercise.', call: 'Call Tele-MANAS ', reset: 'Try a 60-sec reset ', helpline: 'If in immediate physical danger, contact emergency services.', gentleTools: 'GENTLE TOOLS', thisMoment: 'For this moment', boxBreathing: 'Box breathing', twoMinutes: '2 minutes', groundingGuide: 'Grounding guide', senses: '5 senses exercise', journey: 'YOUR JOURNEY', smallSteps: 'Small steps count.', checkins: 'check-ins<br />this week', timeForYou: 'time for<br />yourself', progress: 'View gentle progress →' },
+    'हिन्दी': { date: 'मंगलवार, 25 अगस्त', welcomeTitle: 'आपके लिए एक <em>शांत जगह।</em>', welcome: 'वापसी पर स्वागत है, अक्षवी। हम एक-एक कदम बढ़ा सकते हैं।', choices: '⌁ आपकी पसंद और गोपनीयता', pulseDefaultTitle: 'आज स्थिर है', pulseDefaultCopy: 'आपके चेक-इन एक स्थिर सप्ताह का संकेत देते हैं।', demoIndicator: 'डेमो संकेतक · नैदानिक नहीं', talkRio: 'रियो से बात करें', hereWithYou: 'आपके साथ यहाँ', chatHello: 'नमस्ते अक्षवी। मैं रियो हूँ, आपका गाइड। आज आपको कैसा लगा?', anxious: "मुझे घबराहट हो रही है", pause: 'मुझे एक छोटा ब्रेक चाहिए', case: 'मेरे मामले के बारे में बात करें', chatPlaceholder: 'अपने मन की बात साझा करें…', chatFootnote: 'डेमो एआई मार्गदर्शन · आपात स्थिति के लिए नीचे दिए गए समर्थन विकल्पों का उपयोग करें।', needSupport: 'क्या अभी सहायता चाहिए?', noWait: 'आपको इंतज़ार करने की ज़रूरत नहीं है।', reachSupport: 'प्रशिक्षित व्यक्ति तक पहुँचें या ग्राउंडिंग अभ्यास चुनें।', call: 'टेली-मानस को कॉल करें ', reset: '60-सेकंड का रीसेट आज़माएँ ', helpline: 'आपात स्थिति में, आपातकालीन सेवाओं से संपर्क करें।', gentleTools: 'सौम्य उपकरण', thisMoment: 'इस पल के लिए', boxBreathing: 'बॉक्स श्वास', twoMinutes: '2 मिनट', groundingGuide: 'ग्राउंडिंग गाइड', senses: '5 इंद्रियों का व्यायाम', journey: 'आपकी यात्रा', smallSteps: 'छोटे कदम मायने रखते हैं।', checkins: 'चेक-इन<br />इस सप्ताह', timeForYou: 'आपके लिए<br />समय', progress: 'सौम्य प्रगति देखें →' },
+    'தமிழ்': { date: 'செவ்வாய், 25 ஆகஸ்ட்', welcomeTitle: 'உங்களுக்கான அமைதியான <em>இடம்.</em>', welcome: 'மீண்டும் வரவேற்கிறோம், அக்ஷவி. ஒரு நேரத்தில் ஒரு தருணத்தை எடுத்துக்கொள்ளலாம்.', choices: '⌁ உங்கள் தேர்வுகள் மற்றும் தனியுரிமை', pulseDefaultTitle: 'இன்று நிலையாக உள்ளது', pulseDefaultCopy: 'உங்கள் பதிவுகள் ஒரு நிலையான வாரத்தைக் காட்டுகின்றன.', demoIndicator: 'டெமோ குறியீடு · நோயறிதல் அல்ல', talkRio: 'ரியோவுடன் பேசுங்கள்', hereWithYou: 'உங்களுடன் இருக்கிறேன்', chatHello: 'வணக்கம் அக்ஷவி. நான் ரியோ. இன்று எப்படி இருந்தது?', anxious: 'நான் பதட்டமாக உணர்கிறேன்', pause: 'எனக்கு இடைவெளி வேண்டும்', case: 'என் வழக்கைப் பற்றி பேசுங்கள்', chatPlaceholder: 'உங்கள் மனதில் இருப்பதைப் பகிருங்கள்…', chatFootnote: 'டெமோ AI வழிகாட்டல் · அவசரநிலைகளுக்கு கீழே உள்ள உதவி விருப்பங்களைப் பயன்படுத்தவும்.', needSupport: 'இப்போது உதவி தேவையா?', noWait: 'காத்திருக்க வேண்டியதில்லை.', reachSupport: 'பயிற்சி பெற்றவரை அணுகவும் அல்லது பயிற்சியைத் தேர்வுசெய்யவும்.', call: 'Tele-MANAS ஐ அழைக்கவும் ', reset: '60-வினாடி ஓய்வை முயற்சிக்கவும் ', helpline: 'அவசரநிலைகளுக்கு, அவசர சேவைகளைத் தொடர்புகொள்ளவும்.', gentleTools: 'மென்மையான கருவிகள்', thisMoment: 'இந்தத் தருணத்திற்காக', boxBreathing: 'பெட்டி சுவாசம்', twoMinutes: '2 நிமிடங்கள்', groundingGuide: 'நிலைப்படுத்தும் வழிகாட்டி', senses: '5 புலன்கள் பயிற்சி', journey: 'உங்கள் பயணம்', smallSteps: 'சிறிய படிகளும் முக்கியம்.', checkins: 'பதிவுகள்<br />இந்த வாரம்', timeForYou: 'உங்களுக்கான<br />நேரம்', progress: 'முன்னேற்றத்தைப் பாருங்கள் →' },
+    'తెలుగు': { date: 'మంగళవారం, 25 ఆగస్టు', welcomeTitle: 'మీ కోసం ఒక ప్రశాంతమైన <em>స్థలం.</em>', welcome: 'తిరిగి స్వాగతం అక్షవి. మనం ఒక్కో అడుగు ముందుకు వేద్దాం.', choices: '⌁ మీ ఎంపికలు & గోప్యత', pulseDefaultTitle: 'ఈ రోజు స్థిరంగా ఉంది', pulseDefaultCopy: 'మీ చెక్-ఇన్‌లు స్థిరమైన వారాన్ని సూచిస్తున్నాయి.', demoIndicator: 'డెమో సూచిక · వైద్య నిర్ధారణ కాదు', talkRio: 'రియోతో మాట్లాడండి', hereWithYou: 'మీతో ఉన్నాను', chatHello: 'నమస్తే అక్షవి. నేను రియో. ఈ రోజు ఎలా ఉంది?', anxious: "నేను ఆందోళనగా ఉన్నాను", pause: 'నాకు చిన్న విరామం కావాలి', case: 'నా కేసు గురించి మాట్లాడండి', chatPlaceholder: 'మీ మనస్సులో ఉన్నది పంచుకోండి…', chatFootnote: 'డెమో AI మార్గదర్శకత్వం · అత్యవసర పరిస్థితులకు దిగువ మద్దతు ఎంపికలను ఉపయోగించండి.', needSupport: 'ఇప్పుడే మద్దతు కావాలా?', noWait: 'మీరు వేచి ఉండాల్సిన అవసరం లేదు.', reachSupport: 'శిక్షణ పొందిన వ్యక్తిని చేరుకోండి లేదా వ్యాయామాన్ని ఎంచుకోండి.', call: 'టెలీ-మానస్‌కి కాల్ చేయండి ', reset: '60-సెకన్ల రీసెట్ ప్రయత్నించండి ', helpline: 'అత్యవసరమైతే, అత్యవసర సేవలను సంప్రదించండి.', gentleTools: 'సున్నితమైన సాధనాలు', thisMoment: 'ఈ క్షణం కోసం', boxBreathing: 'బాక్స్ శ్వాస', twoMinutes: '2 నిమిషాలు', groundingGuide: 'గ్రౌండింగ్ గైడ్', senses: '5 ఇంద్రియాల వ్యాయామం', journey: 'మీ ప్రయాణం', smallSteps: 'చిన్న అడుగులు ముఖ్యం.', checkins: 'చెక్-ఇన్‌లు<br />ఈ వారం', timeForYou: 'మీ కోసం<br />సమయం', progress: 'ప్రగతిని చూడండి →' },
+    'ಕನ್ನಡ': { date: 'ಮಂಗಳವಾರ, 25 ಆಗಸ್ಟ್', welcomeTitle: 'ನಿಮಗಾಗಿ ಒಂದು ಶಾಂತ <em>ಸ್ಥಳ.</em>', welcome: 'ಮತ್ತೆ ಸ್ವಾಗತ ಅಕ್ಷವಿ. ನಾವು ಒಂದೊಂದಾಗಿ ಹೆಜ್ಜೆ ಇಡೋಣ.', choices: '⌁ ನಿಮ್ಮ ಆಯ್ಕೆಗಳು ಮತ್ತು ಗೌಪ್ಯತೆ', pulseDefaultTitle: 'ಇಂದು ಸ್ಥಿರವಾಗಿದೆ', pulseDefaultCopy: 'ನಿಮ್ಮ ಚೆಕ್-ಇನ್‌ಗಳು ಸ್ಥಿರವಾದ ವಾರವನ್ನು ಸೂಚಿಸುತ್ತವೆ.', demoIndicator: 'ಡೆಮೊ ಸೂಚಕ · ರೋಗನಿರ್ಣಯವಲ್ಲ', talkRio: 'ರಿಯೊ ಜೊತೆ ಮಾತನಾಡಿ', hereWithYou: 'ನಿಮ್ಮೊಂದಿಗಿದ್ದೇನೆ', chatHello: 'ನಮಸ್ಕಾರ ಅಕ್ಷವಿ. ನಾನು ರಿಯೊ. ಇವತ್ತು ಹೇಗನಿಸುತ್ತಿದೆ?', anxious: "ನನಗೆ ಆತಂಕವಾಗಿದೆ", pause: 'ನನಗೆ ಸ್ವಲ್ಪ ವಿರಾಮ ಬೇಕು', case: 'ನನ್ನ ಕೇಸ್ ಬಗ್ಗೆ ಮಾತನಾಡಿ', chatPlaceholder: 'ನಿಮ್ಮ ಮನಸ್ಸಿನಲ್ಲಿರುವುದನ್ನು ಹಂಚಿಕೊಳ್ಳಿ…', chatFootnote: 'ಡೆಮೊ AI ಮಾರ್ಗದರ್ಶನ · ತುರ್ತು ಪರಿಸ್ಥಿತಿಗಳಿಗೆ ಕೆಳಗಿನ ಬೆಂಬಲ ಆಯ್ಕೆಗಳನ್ನು ಬಳಸಿ.', needSupport: 'ಈಗ ಬೆಂಬಲ ಬೇಕೇ?', noWait: 'ನೀವು ಕಾಯುವ ಅಗತ್ಯವಿಲ್ಲ.', reachSupport: 'ತರಬೇತಿ ಪಡೆದ ವ್ಯಕ್ತಿಯನ್ನು ತಲುಪಿ ಅಥವಾ ವ್ಯಾಯಾಮವನ್ನು ಆರಿಸಿ.', call: 'ಟೆಲಿ-ಮಾನಸ್‌ಗೆ ಕರೆ ಮಾಡಿ ', reset: '60-ಸೆಕೆಂಡ್ ರೀಸೆಟ್ ಪ್ರಯತ್ನಿಸಿ ', helpline: 'ತುರ್ತು ಪರಿಸ್ಥಿತಿ ಇದ್ದರೆ, ತುರ್ತು ಸೇವೆಗಳನ್ನು ಸಂಪರ್ಕಿಸಿ.', gentleTools: 'ಸೌಮ್ಯ ಸಾಧನಗಳು', thisMoment: 'ಈ ಕ್ಷಣಕ್ಕಾಗಿ', boxBreathing: 'ಬಾಕ್ಸ್ ಉಸಿರಾಟ', twoMinutes: '2 ನಿಮಿಷಗಳು', groundingGuide: 'ಗ್ರೌಂಡಿಂಗ್ ಗೈಡ್', senses: '5 ಇಂದ್ರಿಯಗಳ ವ್ಯಾಯಾಮ', journey: 'ನಿಮ್ಮ ಪ್ರಯಾಣ', smallSteps: 'ಸಣ್ಣ ಹೆಜ್ಜೆಗಳು ಮುಖ್ಯ.', checkins: 'ಚೆಕ್-ಇನ್‌ಗಳು<br />ಈ ವಾರ', timeForYou: 'ನಿಮಗಾಗಿ<br />ಸಮಯ', progress: 'ಪ್ರಗತಿಯನ್ನು ನೋಡಿ →' },
+    'മലയാളം': { date: 'ചൊവ്വാഴ്ച, 25 ഓഗസ്റ്റ്', welcomeTitle: 'നിങ്ങൾക്കായുള്ള ഒരു ശാന്തമായ <em>ഇടം.</em>', welcome: 'തിരികെ സ്വാഗതം അക്ഷവി. നമുക്ക് ഓരോ ചുവടായി മുന്നോട്ട് പോകാം.', choices: '⌁ നിങ്ങളുടെ ചോയ്‌സുകളും സ്വകാര്യതയും', pulseDefaultTitle: 'ഇന്ന് സ്ഥിരതയുണ്ട്', pulseDefaultCopy: 'നിങ്ങളുടെ ചെക്ക്-ഇന്നുകൾ സ്ഥിരതയുള്ള ഒരാഴ്ചയെ സൂചിപ്പിക്കുന്നു.', demoIndicator: 'ഡെമോ സൂചകം · രോഗനിർണയമല്ല', talkRio: 'റിയോയോട് സംസാരിക്കുക', hereWithYou: 'നിങ്ങൾക്കൊപ്പമുണ്ട്', chatHello: 'നമസ്കാരം അക്ഷവി. ഞാൻ റിയോ. ഇന്ന് എങ്ങനെ തോന്നുന്നു?', anxious: "എനിക്ക് ഉത്കണ്ഠ തോന്നുന്നു", pause: 'എനിക്കൊരു ചെറിയ ഇടവേള വേണം', case: 'എന്റെ കേസിനെക്കുറിച്ച് സംസാരിക്കുക', chatPlaceholder: 'നിങ്ങളുടെ മനസ്സിലുള്ളത് പങ്കിടുക…', chatFootnote: 'ഡെമോ AI മാർഗ്ഗനിർദ്ദേശം · അടിയന്തര ഘട്ടങ്ങൾക്ക് താഴെയുള്ള ഓപ്ഷനുകൾ ഉപയോഗിക്കുക.', needSupport: 'ഇപ്പോൾ സഹായം വേണമോ?', noWait: 'നിങ്ങൾ കാത്തിരിക്കേണ്ടതില്ല.', reachSupport: 'പരിശീലനം ലഭിച്ച ഒരാളെ ബന്ധപ്പെടുക അല്ലെങ്കിൽ വ്യായാമം തിരഞ്ഞെടുക്കുക.', call: 'ടെലി-മാനസിലേക്ക് വിളിക്കുക ', reset: '60-സെക്കൻഡ് റീസെറ്റ് ശ്രമിക്കുക ', helpline: 'അടിയന്തര ഘട്ടങ്ങളിൽ, എമർജൻസി സേവനങ്ങളെ ബന്ധപ്പെടുക.', gentleTools: 'സൗമ്യമായ ഉപകരണങ്ങൾ', thisMoment: 'ഈ നിമിഷത്തിനായി', boxBreathing: 'ബോക്സ് ബ്രീത്തിംഗ്', twoMinutes: '2 മിനിറ്റ്', groundingGuide: 'ഗ്രൗണ്ടിംഗ് ഗൈഡ്', senses: '5 ഇന്ദ്രിയങ്ങളുടെ വ്യായാമം', journey: 'നിങ്ങളുടെ യാത്ര', smallSteps: 'ചെറിയ കാൽവെപ്പുകൾ പ്രധാനമാണ്.', checkins: 'ചെക്ക്-ഇന്നുകൾ<br />ഈ ആഴ്ച', timeForYou: 'നിങ്ങൾക്കുള്ള<br />സമയം', progress: 'പുരോഗതി കാണുക →' },
+    'বাংলা': { date: 'মঙ্গলবার, ২৫ আগস্ট', welcomeTitle: 'আপনার জন্য একটি শান্ত <em>জায়গা।</em>', welcome: 'ফিরে আসার জন্য স্বাগত অক্ষভি। আমরা এক এক করে এগোব।', choices: '⌁ আপনার পছন্দ এবং গোপনীয়তা', pulseDefaultTitle: 'আজ স্থিতিশীল', pulseDefaultCopy: 'আপনার চেক-ইনগুলি একটি স্থিতিশীল সপ্তাহ নির্দেশ করে।', demoIndicator: 'ডেমো সূচক · রোগ নির্ণয় নয়', talkRio: 'রিওর সাথে কথা বলুন', hereWithYou: 'আপনার সাথে আছি', chatHello: 'হ্যালো অক্ষভি। আমি রিও। আজ কেমন লাগছে?', anxious: "আমার দুশ্চিন্তা হচ্ছে", pause: 'আমার একটু বিরতি দরকার', case: 'আমার কেস নিয়ে কথা বলুন', chatPlaceholder: 'আপনার মনের কথা শেয়ার করুন…', chatFootnote: 'ডেমো এআই নির্দেশিকা · জরুরি অবস্থার জন্য নিচের সাপোর্ট অপশন ব্যবহার করুন।', needSupport: 'এখন সাপোর্ট দরকার?', noWait: 'আপনাকে অপেক্ষা করতে হবে না।', reachSupport: 'প্রশিক্ষিত ব্যক্তির সাথে যোগাযোগ করুন বা ব্যায়াম বেছে নিন।', call: 'টেলি-মানস কল করুন ', reset: '৬০-সেকেন্ড রিসেট চেষ্টা করুন ', helpline: 'জরুরি পরিস্থিতিতে, জরুরি পরিষেবাগুলির সাথে যোগাযোগ করুন।', gentleTools: 'সহজ সরঞ্জাম', thisMoment: 'এই মুহূর্তের জন্য', boxBreathing: 'বক্স শ্বাস', twoMinutes: '২ মিনিট', groundingGuide: 'গ্রাউন্ডিং গাইড', senses: '৫ ইন্দ্রিয়ের ব্যায়াম', journey: 'আপনার যাত্রা', smallSteps: 'ছোট পদক্ষেপগুলি গুরুত্বপূর্ণ।', checkins: 'চেক-ইন<br />এই সপ্তাহ', timeForYou: 'আপনার জন্য<br />সময়', progress: 'অগ্রগতি দেখুন →' },
+    'मराठी': { date: 'मंगळवार, २५ ऑगस्ट', welcomeTitle: 'तुमच्यासाठी एक शांत <em>जागा.</em>', welcome: 'परत स्वागत आहे, अक्षवी. आपण एक-एक पाऊल पुढे टाकू.', choices: '⌁ तुमच्या निवडी आणि गोपनीयता', pulseDefaultTitle: 'आज स्थिर आहे', pulseDefaultCopy: 'तुमचे चेक-इन एक स्थिर आठवडा दर्शवतात.', demoIndicator: 'डेमो सूचक · वैद्यकीय निदान नाही', talkRio: 'रिओशी बोला', hereWithYou: 'तुमच्या सोबत', chatHello: 'नमस्कार अक्षवी. मी रिओ. आज कसं वाटतंय?', anxious: "मला काळजी वाटतेय", pause: 'मला थोडा ब्रेक हवाय', case: 'माझ्या केसबद्दल बोला', chatPlaceholder: 'तुमच्या मनात काय आहे ते शेअर करा…', chatFootnote: 'डेमो एआय मार्गदर्शन · आणीबाणीसाठी खालील सपोर्ट पर्याय वापरा.', needSupport: 'आत्ता सपोर्ट हवाय?', noWait: 'तुम्हाला वाट पाहण्याची गरज नाही.', reachSupport: 'प्रशिक्षित व्यक्तीशी संपर्क साधा किंवा व्यायाम निवडा.', call: 'टेली-मानस ला कॉल करा ', reset: '६०-सेकंद रिसेट करून पहा ', helpline: 'आणीबाणीच्या परिस्थितीत, आपत्कालीन सेवांशी संपर्क साधा.', gentleTools: 'सौम्य साधने', thisMoment: 'या क्षणासाठी', boxBreathing: 'बॉक्स ब्रीदिंग', twoMinutes: '२ मिनिटे', groundingGuide: 'ग्राउंडिंग मार्गदर्शक', senses: '५ इंद्रियांचा व्यायाम', journey: 'तुमचा प्रवास', smallSteps: 'छोटी पावले महत्त्वाची आहेत.', checkins: 'चेक-इन<br />या आठवड्यात', timeForYou: 'तुमच्यासाठी<br />वेळ', progress: 'प्रगती पहा →' },
+    'ગુજરાતી': { date: 'મંગળવાર, 25 ઓગસ્ટ', welcomeTitle: 'તમારા માટે એક શાંત <em>જગ્યા.</em>', welcome: 'પાછા આવવા બદલ સ્વાગત છે, અક્ષવી. આપણે એક એક ડગલું આગળ વધીશું.', choices: '⌁ તમારી પસંદગીઓ અને ગોપનીયતા', pulseDefaultTitle: 'આજે સ્થિર છે', pulseDefaultCopy: 'તમારા ચેક-ઇન્સ એક સ્થિર અઠવાડિયું સૂચવે છે.', demoIndicator: 'ડેમો સૂચક · નિદાન નથી', talkRio: 'રિયો સાથે વાત કરો', hereWithYou: 'તમારી સાથે', chatHello: 'નમસ્તે અક્ષવી. હું રિયો છું. આજે કેવું લાગે છે?', anxious: "મને ચિંતા થાય છે", pause: 'મારે થોડો બ્રેક જોઈએ છે', case: 'મારા કેસ વિશે વાત કરો', chatPlaceholder: 'તમારા મનની વાત શેર કરો…', chatFootnote: 'ડેમો એઆઈ માર્ગદર્શન · કટોકટી માટે નીચેના સપોર્ટ વિકલ્પોનો ઉપયોગ કરો.', needSupport: 'અત્યારે સપોર્ટ જોઈએ છે?', noWait: 'તમારે રાહ જોવાની જરૂર નથી.', reachSupport: 'પ્રશિક્ષિત વ્યક્તિનો સંપર્ક કરો અથવા કસરત પસંદ કરો.', call: 'ટેલિ-માનસ ને કૉલ કરો ', reset: '60-સેકન્ડ રીસેટ અજમાવો ', helpline: 'કટોકટીમાં, ઇમરજન્સી સેવાઓનો સંપર્ક કરો.', gentleTools: 'સૌમ્ય સાધનો', thisMoment: 'આ ક્ષણ માટે', boxBreathing: 'બૉક્સ શ્વાસ', twoMinutes: '2 મિનિટ', groundingGuide: 'ગ્રાઉન્ડિંગ માર્ગદર્શિકા', senses: '5 ઇન્દ્રિયોની કસરત', journey: 'તમારી યાત્રા', smallSteps: 'નાના પગલાં મહત્વપૂર્ણ છે.', checkins: 'ચેક-ઇન્સ<br />આ અઠવાડિયે', timeForYou: 'તમારા માટે<br />સમય', progress: 'પ્રગતિ જુઓ →' },
+    'ਪੰਜਾਬੀ': { date: 'ਮੰਗਲਵਾਰ, 25 ਅਗਸਤ', welcomeTitle: 'ਤੁਹਾਡੇ ਲਈ ਇੱਕ ਸ਼ਾਂਤ <em>ਜਗ੍ਹਾ।</em>', welcome: 'ਵਾਪਸੀ ਤੇ ਸੁਆਗਤ ਹੈ, ਅਕਸ਼ਵੀ। ਅਸੀਂ ਇੱਕ-ਇੱਕ ਕਦਮ ਅੱਗੇ ਵਧਾਂਗੇ।', choices: '⌁ ਤੁਹਾਡੀਆਂ ਚੋਣਾਂ ਅਤੇ ਗੋਪਨੀਯਤਾ', pulseDefaultTitle: 'ਅੱਜ ਸਥਿਰ ਹੈ', pulseDefaultCopy: 'ਤੁਹਾਡੇ ਚੈਕ-ਇਨ ਇੱਕ ਸਥਿਰ ਹਫ਼ਤੇ ਦਾ ਸੰਕੇਤ ਦਿੰਦੇ ਹਨ।', demoIndicator: 'ਡੈਮੋ ਸੂਚਕ · ਕੋਈ ਤਸ਼ਖੀਸ ਨਹੀਂ', talkRio: 'ਰੀਓ ਨਾਲ ਗੱਲ ਕਰੋ', hereWithYou: 'ਤੁਹਾਡੇ ਨਾਲ', chatHello: 'ਹੈਲੋ ਅਕਸ਼ਵੀ। ਮੈਂ ਰੀਓ ਹਾਂ। ਅੱਜ ਕਿਵੇਂ ਲੱਗ ਰਿਹਾ ਹੈ?', anxious: "ਮੈਨੂੰ ਚਿੰਤਾ ਹੋ ਰਹੀ ਹੈ", pause: 'ਮੈਨੂੰ ਥੋੜ੍ਹਾ ਬ੍ਰੇਕ ਚਾਹੀਦਾ ਹੈ', case: 'ਮੇਰੇ ਕੇਸ ਬਾਰੇ ਗੱਲ ਕਰੋ', chatPlaceholder: 'ਆਪਣੇ ਮਨ ਦੀ ਗੱਲ ਸਾਂਝੀ ਕਰੋ…', chatFootnote: 'ਡੈਮੋ ਏਆਈ ਮਾਰਗਦਰਸ਼ਨ · ਐਮਰਜੈਂਸੀ ਲਈ ਹੇਠਾਂ ਦਿੱਤੇ ਵਿਕਲਪਾਂ ਦੀ ਵਰਤੋਂ ਕਰੋ।', needSupport: 'ਹੁਣ ਸਹਾਇਤਾ ਚਾਹੀਦੀ ਹੈ?', noWait: 'ਤੁਹਾਨੂੰ ਉਡੀਕ ਕਰਨ ਦੀ ਲੋੜ ਨਹੀਂ ਹੈ।', reachSupport: 'ਸਿਖਲਾਈ ਪ੍ਰਾਪਤ ਵਿਅਕਤੀ ਨਾਲ ਸੰਪਰਕ ਕਰੋ ਜਾਂ ਕਸਰਤ ਚੁਣੋ।', call: 'ਟੈਲੀ-ਮਾਨਸ ਨੂੰ ਕਾਲ ਕਰੋ ', reset: '60-ਸਕਿੰਟ ਰੀਸੈਟ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰੋ ', helpline: 'ਐਮਰਜੈਂਸੀ ਵਿੱਚ, ਐਮਰਜੈਂਸੀ ਸੇਵਾਵਾਂ ਨਾਲ ਸੰਪਰਕ ਕਰੋ।', gentleTools: 'ਨਰਮ ਉਪਕਰਣ', thisMoment: 'ਇਸ ਪਲ ਲਈ', boxBreathing: 'ਬਾਕਸ ਸਾਹ', twoMinutes: '2 ਮਿੰਟ', groundingGuide: 'ਗਰਾਊਂਡਿੰਗ ਗਾਈਡ', senses: '5 ਇੰਦਰੀਆਂ ਦੀ ਕਸਰਤ', journey: 'ਤੁਹਾਡਾ ਸਫ਼ਰ', smallSteps: 'ਛੋਟੇ ਕਦਮ ਮਹੱਤਵਪੂਰਨ ਹਨ।', checkins: 'ਚੈਕ-ਇਨ<br />ਇਸ ਹਫ਼ਤੇ', timeForYou: 'ਤੁਹਾਡੇ ਲਈ<br />ਸਮਾਂ', progress: 'ਤਰੱਕੀ ਦੇਖੋ →' }
   };
 
   const counselorCopy = {
@@ -80,7 +72,7 @@
   let selectedMoodName = 'Okay';
   let chatHistory = [];
   const modal = byId('modal');
-  let timerId;
+  let timerId, textIntervalId;
 
   const t = (key) => (translations[byId('language').value] || translations.English)[key] || translations.English[key] || key;
   const copy = (key) => (pageCopy[byId('language').value] || pageCopy.English)[key] || pageCopy.English[key] || key;
@@ -117,29 +109,44 @@
     document.querySelector('.chat-card h2').textContent = copy('talkRio');
     document.querySelector('.assistant-id p').childNodes[1].textContent = copy('hereWithYou');
     document.querySelector('#messages .message.bot').textContent = copy('chatHello');
+    
     const suggestions = document.querySelectorAll('.suggestions button');
-    [copy('anxious'), copy('pause'), copy('case')].forEach((text, index) => { if (suggestions[index]) suggestions[index].textContent = text; });
+    if (suggestions.length >= 3) {
+      suggestions[0].textContent = copy('anxious'); 
+      suggestions[1].textContent = copy('pause'); 
+      suggestions[2].textContent = copy('case');
+    }
+    
     byId('chatText').placeholder = copy('chatPlaceholder');
     document.querySelector('.chat-footnote').textContent = copy('chatFootnote');
     document.querySelector('.support-card .eyebrow').textContent = copy('needSupport');
     document.querySelector('.support-card h2').textContent = copy('noWait');
     document.querySelector('.support-card > p').textContent = copy('reachSupport');
-    byId('groundBtn').innerHTML = `${copy('reset')}<span>→</span>`;
     document.querySelector('.support-card small').textContent = copy('helpline');
     document.querySelector('.resource-card .eyebrow').textContent = copy('gentleTools');
     document.querySelector('.resource-card h2').textContent = copy('thisMoment');
+    
     const resources = document.querySelectorAll('.resource');
-    resources[0].querySelector('strong').textContent = copy('boxBreathing'); resources[0].querySelector('small').textContent = copy('twoMinutes');
-    resources[1].querySelector('strong').textContent = copy('groundingGuide'); resources[1].querySelector('small').textContent = copy('senses');
+    if (resources.length >= 2) {
+      resources[0].querySelector('strong').textContent = copy('boxBreathing'); 
+      resources[0].querySelector('small').textContent = copy('twoMinutes');
+      resources[1].querySelector('strong').textContent = copy('groundingGuide'); 
+      resources[1].querySelector('small').textContent = copy('senses');
+    }
+    
     document.querySelector('.journey .eyebrow').textContent = copy('journey');
     document.querySelector('.journey h2').textContent = copy('smallSteps');
     const journeyStats = document.querySelectorAll('.journey-stat span');
-    journeyStats[0].innerHTML = copy('checkins'); journeyStats[1].innerHTML = copy('timeForYou');
+    if(journeyStats.length >= 2) {
+      journeyStats[0].innerHTML = copy('checkins'); 
+      journeyStats[1].innerHTML = copy('timeForYou');
+    }
+    
     byId('journeyBtn').textContent = copy('progress');
     document.querySelector('.dashboard-head h1').innerHTML = counselorHeaderText('greeting');
     document.querySelector('.dashboard-head .subtle').textContent = counselorHeaderText('intro');
     byId('refreshBtn').textContent = counselorHeaderText('refresh');
-    document.querySelector('.filter').textContent = counselorHeaderText('filter');
+    byId('filterBtn').textContent = counselorHeaderText('filter');
     document.querySelector('.risk-panel .eyebrow').textContent = counselorText('dds');
     document.querySelector('.preview .eyebrow').textContent = counselorText('preview');
     byId('openChatBtn').textContent = counselorText('open');
@@ -154,7 +161,8 @@
       if (savedData) {
         if (savedData.selectedMoodName) setMood(savedData.selectedMoodName, false);
         if (savedData.chatHistory && savedData.chatHistory.length > 0) {
-          byId('messages').innerHTML = '';
+          const msgs = document.querySelectorAll('#messages .message:not(.bot:first-child)');
+          msgs.forEach(m => m.remove()); 
           savedData.chatHistory.forEach(msg => addMessage(msg.kind, msg.text, false));
         }
         if (savedData.akshaviScore) akshavi().score = savedData.akshaviScore;
@@ -174,19 +182,41 @@
     }));
   };
 
-  byId('loginPatient').addEventListener('click', () => {
+  // Switch Profiles Logic
+  const setRole = (role) => {
+    const isCounselor = role === 'counselor';
+    byId('careView').hidden = isCounselor;
+    byId('counselorView').hidden = !isCounselor;
+    document.querySelectorAll('.nav-link').forEach((item) => item.classList.toggle('active', item.dataset.view === role));
+    
+    const profileBtn = byId('profileBtn');
+    if (isCounselor) {
+        profileBtn.textContent = 'DM';
+        profileBtn.style.background = 'var(--gold)';
+        profileBtn.style.color = 'white';
+    } else {
+        profileBtn.textContent = 'AK';
+        profileBtn.style.background = 'var(--lilac)';
+        profileBtn.style.color = 'var(--lav)';
+    }
     byId('authScreen').hidden = true;
-    document.querySelector('[data-view="care"]').click();
-  });
-  byId('loginCounselor').addEventListener('click', () => {
-    byId('authScreen').hidden = true;
-    document.querySelector('[data-view="counselor"]').click();
+  };
+
+  byId('loginPatient').addEventListener('click', () => setRole('care'));
+  byId('loginCounselor').addEventListener('click', () => setRole('counselor'));
+  
+  byId('profileBtn').addEventListener('click', () => {
+    byId('authScreen').hidden = false;
   });
 
   const stopTimer = (hideModal = true) => {
     if (timerId) window.clearInterval(timerId);
+    if (textIntervalId) window.clearInterval(textIntervalId);
     timerId = undefined;
+    textIntervalId = undefined;
+    // Strictly reset everything so they don't bleed into other modals
     byId('breathingContainer').hidden = true;
+    byId('timerDisplay').hidden = true;
     byId('privacyToggles').hidden = true;
     if (hideModal) modal.hidden = true;
   };
@@ -196,7 +226,6 @@
     byId('modalTitle').textContent = title;
     byId('modalText').textContent = text;
     byId('modalKicker').textContent = kicker;
-    byId('timerDisplay').hidden = true;
     byId('modalAction').textContent = actionLabel;
     byId('modalAction').setAttribute('data-close-modal', '');
     byId('modalAction').onclick = null;
@@ -207,9 +236,18 @@
     showModal('Breathe with the guide', 'Follow the circle. Inhale as it grows, hold, and exhale as it shrinks.', 'BOX BREATHING', 'Stop exercise');
     const container = byId('breathingContainer');
     const bText = byId('breathingText');
-    container.hidden = false;
+    const tDisplay = byId('timerDisplay');
     
+    container.hidden = false;
+    tDisplay.hidden = false; // Show the numeric timer
+    
+    let remaining = seconds;
     let cycles = 0;
+    
+    const renderTime = () => {
+      tDisplay.textContent = `${String(Math.floor(remaining / 60)).padStart(2, '0')}:${String(remaining % 60).padStart(2, '0')}`;
+    };
+    
     const updateText = () => {
       const phase = cycles % 4;
       if(phase === 0) bText.textContent = "Inhale...";
@@ -218,21 +256,56 @@
       if(phase === 3) bText.textContent = "Hold...";
       cycles++;
     };
+    
+    renderTime();
     updateText();
     
     const action = byId('modalAction');
     action.removeAttribute('data-close-modal');
     action.onclick = () => stopTimer();
     
-    timerId = window.setInterval(updateText, 4000);
+    textIntervalId = window.setInterval(updateText, 4000);
     
-    setTimeout(() => {
-        stopTimer(false);
-        byId('modalTitle').textContent = 'Nice work.';
-        byId('modalText').textContent = 'You completed this gentle moment.';
-        action.textContent = 'Close';
-        action.setAttribute('data-close-modal', '');
-    }, seconds * 1000);
+    timerId = window.setInterval(() => {
+        remaining -= 1;
+        renderTime();
+        if (remaining <= 0) {
+            stopTimer(false);
+            byId('modalTitle').textContent = 'Nice work.';
+            byId('modalText').textContent = 'You completed this gentle moment.';
+            action.textContent = 'Close';
+            action.setAttribute('data-close-modal', '');
+        }
+    }, 1000);
+  };
+  
+  const startNumericTimer = (title, text, kicker, seconds) => {
+    showModal(title, text, kicker, 'Stop exercise');
+    const tDisplay = byId('timerDisplay');
+    tDisplay.hidden = false; // Only show numeric timer
+    
+    let remaining = seconds;
+    const renderTime = () => {
+      tDisplay.textContent = `${String(Math.floor(remaining / 60)).padStart(2, '0')}:${String(remaining % 60).padStart(2, '0')}`;
+    };
+    
+    renderTime();
+    
+    const action = byId('modalAction');
+    action.removeAttribute('data-close-modal');
+    action.onclick = () => stopTimer();
+    
+    timerId = window.setInterval(() => {
+        remaining -= 1;
+        renderTime();
+        if (remaining <= 0) {
+            stopTimer(false);
+            byId('modalTitle').textContent = 'Nice work.';
+            byId('modalText').textContent = 'You completed this gentle moment.';
+            action.textContent = 'Close';
+            action.setAttribute('data-close-modal', '');
+        }
+    }, 1000);
   };
 
   const renderCounselorDetail = (person) => {
@@ -359,8 +432,9 @@
   });
 
   document.querySelectorAll('.suggestions button').forEach((button) => button.addEventListener('click', () => {
-    byId('chatText').value = button.textContent;
-    byId('chatText').focus();
+    const text = button.textContent;
+    addMessage('user', text);
+    handleMessage(text);
   }));
 
   const micBtn = byId('micBtn');
@@ -387,24 +461,32 @@
     micBtn.style.display = 'none'; 
   }
 
+  // Event Listeners for informational modals
+  byId('pulseBtn')?.addEventListener('click', () => showModal('Your wellness pulse', 'This indicator reflects your check-ins and is not a diagnosis.', 'WELLNESS PULSE', 'Close'));
+  byId('journeyBtn')?.addEventListener('click', () => showModal('Your gentle progress', 'Three check-ins and twelve minutes for yourself are meaningful steps.', 'YOUR JOURNEY', 'Close'));
+  byId('chatInfoBtn')?.addEventListener('click', () => showModal('About Rio', 'Rio is a demo guide for gentle, supportive conversation.', 'CHAT INFORMATION', 'Close'));
+  byId('resourceInfoBtn')?.addEventListener('click', () => showModal('More support tools', 'This demo keeps options simple. A production version can include saved resources and accessibility preferences.', 'MORE OPTIONS', 'Close'));
+
+  // Event Listeners for interactive tool modals
   byId('boxBreathingBtn')?.addEventListener('click', () => startVisualBreathing(120));
   
   byId('groundingBtn')?.addEventListener('click', () => {
-      showModal('Use your five senses', 'Look around and slowly name:\n5 things you can see\n4 things you can feel\n3 things you can hear\n2 things you can smell\n1 thing you can taste.', 'GROUNDING GUIDE', 'Close');
+      startNumericTimer('Use your five senses', 'Look around and slowly name:\n5 things you can see\n4 things you can feel\n3 things you can hear\n2 things you can smell\n1 thing you can taste.', 'GROUNDING GUIDE', 60);
   });
 
+  // Event Listener for Privacy / Consent modal
   byId('consentBtn')?.addEventListener('click', () => {
       showModal('Data Sharing Controls', 'You choose what information is shared with your clinical team.', 'YOUR CHOICES', 'Save Preferences');
       byId('privacyToggles').hidden = false;
   });
 
+  // Event Listeners for Counselor actions
   byId('openChatBtn')?.addEventListener('click', () => {
-    document.querySelector('[data-view="care"]').click();
+    setRole('care');
     byId('chatText').focus();
   });
-
-  byId('checkinBtn')?.addEventListener('click', () => showModal('Gentle check-in sent', 'Akshavi will receive a kind invitation to share how things are going.', 'COUNSELOR ACTION', 'Close'));
   
+  byId('checkinBtn')?.addEventListener('click', () => showModal('Gentle check-in sent', 'Akshavi will receive a kind invitation to share how things are going.', 'COUNSELOR ACTION', 'Close'));
   byId('nudgeBtn')?.addEventListener('click', () => showModal('Send a gentle nudge', 'Template: "Take your time today. Remember to use the grounding tools if needed." — Notification sent.', 'COUNSELOR ACTION', 'Close'));
   
   byId('exportBtn')?.addEventListener('click', () => {
@@ -431,7 +513,7 @@
     window.setTimeout(() => { button.textContent = '↻ Refresh overview'; }, 1500);
   });
 
-  document.querySelector('.filter')?.addEventListener('click', (event) => {
+  byId('filterBtn')?.addEventListener('click', (event) => {
     const button = event.currentTarget;
     const showingReview = button.dataset.reviewOnly === 'true';
     button.dataset.reviewOnly = String(!showingReview);
@@ -442,10 +524,7 @@
   });
 
   document.querySelectorAll('.nav-link').forEach((button) => button.addEventListener('click', () => {
-    const counselor = button.dataset.view === 'counselor';
-    byId('careView').hidden = counselor;
-    byId('counselorView').hidden = !counselor;
-    document.querySelectorAll('.nav-link').forEach((item) => item.classList.toggle('active', item === button));
+    setRole(button.dataset.view);
   }));
 
   byId('language').addEventListener('change', applyLanguage);
