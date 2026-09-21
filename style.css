@@ -12,7 +12,7 @@ header{height:86px;display:flex;align-items:center;justify-content:space-between
 .header-actions{display:flex;align-items:center;gap:18px}
 .language{font-size:14px;color:var(--muted);display:flex;gap:6px;align-items:center}
 .language select{border:0;background:transparent;color:inherit;font:inherit;cursor:pointer}
-.profile,.avatar{border:0;border-radius:50%;display:grid;place-items:center;background:var(--lilac);color:var(--lav);font-weight:700;width:36px;height:36px}
+.profile,.avatar{border:0;border-radius:50%;display:grid;place-items:center;background:var(--lilac);color:var(--lav);font-weight:700;width:36px;height:36px;cursor:pointer;transition:background 0.2s}
 .welcome-row,.dashboard-head{display:flex;justify-content:space-between;align-items:end;padding:49px 0 30px}
 h1,h2,p{margin-top:0}
 h1{font-family:Fraunces,serif;font-size:40px;letter-spacing:-1.8px;margin-bottom:8px}
@@ -40,7 +40,7 @@ h2{font-size:18px;letter-spacing:-.5px;margin-bottom:5px}
 .mood-note{margin:0;color:var(--muted);font-size:13px}
 .wellness-card{position:relative;isolation:isolate;overflow:hidden;background:linear-gradient(135deg,#3038bb 0%,#187ec9 54%,#65d4df 100%);border-radius:16px;padding:25px 26px;box-shadow:0 18px 40px rgba(46,57,187,.22)}
 .wellness-card:before{content:"";position:absolute;z-index:0;right:-88px;top:-132px;width:326px;height:326px;border:42px solid rgba(255,255,255,.16);border-radius:50%;box-shadow:inset 0 0 0 42px rgba(255,255,255,.06)}
-.wellness-card:after{content:"absolute";z-index:0;left:35%;bottom:-145px;width:290px;height:290px;border-radius:50%;background:radial-gradient(circle,rgba(255,255,255,.20) 0 3%,transparent 4% 100%);opacity:.7}
+.wellness-card:after{content:"";position:absolute;z-index:0;left:35%;bottom:-145px;width:290px;height:290px;border-radius:50%;background:radial-gradient(circle,rgba(255,255,255,.20) 0 3%,transparent 4% 100%);opacity:.7}
 .wellness-copy{position:relative;z-index:1;max-width:56%}
 .wellness-copy .eyebrow{color:rgba(255,255,255,.9)}
 .wellness-copy h2{color:#fff;font-size:20px}
